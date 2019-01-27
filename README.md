@@ -37,12 +37,12 @@ echo "127.0.0.1 local.magento2.com" | sudo tee -a /etc/hosts
 
 ### Inform the authentication key of the magento marketplace in the project's auth.json file.
 
-A-Log in to the magento market place (https://marketplace.magento.com/)
-B-Go in the My Profile menu
-C-Once logged in to Marketplace / My Products / Access Keys
-D-Click the Create a New Access Key button
-E-Rename the src/auth.json.sample file to auth.json
-F-Inform key data in src/auth.json file
+1. Log in to the magento market place (https://marketplace.magento.com/)
+2. Go in the My Profile menu
+3. Once logged in to Marketplace / My Products / Access Keys
+4. Click the Create a New Access Key button
+5. Rename the src/auth.json.sample file to auth.json
+6. Inform key data in src/auth.json file
 
 Remember that:
 
