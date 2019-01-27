@@ -44,10 +44,11 @@ echo "127.0.0.1 local.magento2.com" | sudo tee -a /etc/hosts
 5. Rename the src/auth.json.sample file to auth.json
 6. Inform key data in src/auth.json file
 
-Remember that:
-
+#### Remember that:
+```ssh
 username = Public Key
 password = Private Key
+```
 
 ### Creating the code directory
 
