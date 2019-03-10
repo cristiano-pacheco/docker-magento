@@ -53,12 +53,12 @@ password = Private Key
 ### Creating the code directory
 
 ```ssh
-mkdir src / app / code
+mkdir src/app/code
 ```
 
 ### Starting containers
 ```ssh
-bin / start
+bin/start
 ```
 
 ### Add the entry below in the file src/composer.json
